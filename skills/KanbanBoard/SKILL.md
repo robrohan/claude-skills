@@ -3,9 +3,9 @@ name: kanban
 description: "Manage an Obsidian Kanban board through a multi-agent workflow. Subcommands: init, plan, manage, work, verify, view."
 version: 1.0.0
 allowed-tools: 
-	- Read 
-	- Edit
-	- Write
+- Read 
+- Edit
+- Write
 ---
 
 # Kanban Board
