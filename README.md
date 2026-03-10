@@ -1,2 +1,5 @@
-# claude-skills
-A collection of skills / commands for Claude Code
+# Claude Skills
+
+A collection of skills / commands for Claude Code.
+
+
